@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable the knights, citizens, and burgesses, now assembled in Parliament. The humble propositions of William Ball, alias Bennet, Gent. Concerning the forts of this kingdome. With some other considerations of state.</title>
+            <author>Ball, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77923</idno>
+            <idno type="STC">Wing B596</idno>
+            <idno type="STC">Thomason E174_6</idno>
+            <idno type="STC">ESTC R212685</idno>
+            <idno type="EEBO-CITATION">99871274</idno>
+            <idno type="PROQUEST">99871274</idno>
+            <idno type="VID">157073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77923)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157073)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E174[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable the knights, citizens, and burgesses, now assembled in Parliament. The humble propositions of William Ball, alias Bennet, Gent. Concerning the forts of this kingdome. With some other considerations of state.</title>
+                  <author>Ball, William.</author>
+               </titleStmt>
+               <extent>[4], 18, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Barnard Alsop for Thomas Bayly, dwelling in the Middle-Row in Holborne, neere unto Staple-Inne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf is blank.</note>
+                  <note>A variant of the edition lacking names in the imprint.</note>
+                  <note>Numerous errors in pagination.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  Defenses --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157073:1" rendition="simple:additions"/>
+            <p>TO <hi>THE</hi> HONOURABLE THE <hi>Knights, Citizens,</hi> and <hi>Burgeſſes,</hi> now aſſembled in PARLIAMENT.</p>
+            <p>THE HUMBLE PROPOSITIONS OF WILLIAM BALL, <hi>alias</hi> BENNET, <hi>Gent.</hi>
+            </p>
+            <p>Concerning the Forts of this <hi>King<g ref="char:EOLhyphen"/>dome.</hi> With ſome other <hi>Conſiderations</hi> of State.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Barnard Allop</hi> for <hi>Thomas Bayly,</hi> dwelling in the <hi>Middle-Row</hi> in <hi>Holborne, neere unto Staple-Inne.</hi> 1641.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:157073:2"/>
+            <pb facs="tcp:157073:2"/>
+            <head>TO THE RIGHT WORSHIPFVL M<hi rend="sup">r</hi>. SPEAKER.</head>
+            <opener>
+               <salute>RIGHT WORSHIPF<g ref="char:V">Ʋ</g>L;</salute>
+            </opener>
+            <p>YOur owne reall worth hath ever deſerved thoſe due Respects from mee, which I have (as obli<g ref="char:EOLhyphen"/>ged thereunto) formerly tendred unto you; Now the eminence of your Place may command me humble ſervice: which (according to my ability) <hi>I</hi> ſhall be ever ready (as in duty bound) to render at your pleaſure. In token whereof, I have attempted to dedicate theſe Pro<g ref="char:EOLhyphen"/>poſitions, chiefly to your <hi>Worſhip,</hi> to whom they may moſt fitly have Relation, as being a principall Member of the great, and happy Repreſentative Body of this moſt flouri<g ref="char:EOLhyphen"/>ſhing Kingdome, now aſſembled in <hi>Parliament. For the generall good, and ſafety whereof, I have expreſt, &amp; ſet</hi>
+               <pb facs="tcp:157073:3"/> 
+               <hi>forth theſe, though meane,</hi> yet my well-meaning Endea<g ref="char:EOLhyphen"/>vours, being over ready to e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avour <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, as my much <hi>Honoured <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>upe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ours</hi> ſhall ple<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> command, and direct m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. Wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe divine Providence, and G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſe, I ſhall ever implore, for the happy ſucceſſe of all publick <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd great Deſignes important to this <hi>Na<g ref="char:EOLhyphen"/>tion,</hi> and remaine alwayes<g ref="char:punc">▪</g>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Your Worſhips Servant to command WILLIAM BALL,</hi> alias BENNET.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157073:3"/>
+            <head>TO THE HONOVRABLE THE Knights. Citizens<g ref="char:punc">▪</g> and Burgeſſes, <hi>Now aſſembled in PARLIAMENT.</hi>
+            </head>
+            <head type="sub">The humble <hi>Propoſitions</hi> of <hi>William Ball,</hi> alias <hi>Bennet, Gent. Concerning the Forts of this King<g ref="char:EOLhyphen"/>dome, with ſome other Conſiderations of STATE.</hi>
+            </head>
+            <div n="1" type="part">
+               <head>1.</head>
+               <p>FOraſmuch, as all men as well Inferiours, as Superiours, are by the Lawes, both of God and Nature; as alſo by Con<g ref="char:EOLhyphen"/>ſtitutions, <hi>Civill, and Mili<g ref="char:EOLhyphen"/>tary</hi> (grounded upon Reaſon,
+<pb n="2" facs="tcp:157073:4"/> and Honour) bound to conſerve, as much as in them lyeth, their native Country; in which they receive the life of Men, and enjoy the liber<g ref="char:EOLhyphen"/>ty of Free-men; the moſt eſpeciall benefits (ſpeaking morally) of this <hi>Lower world:</hi> every one therefore is, not to hide his Talent in the ground, but liberally to proffer, for the generall good of his Country, what ſtore ſoever he poſ<g ref="char:EOLhyphen"/>ſeſſeth, or enjoyeth, whether or no, it be the en<g ref="char:EOLhyphen"/>dowment of Nature, or Fortune: ſo that per<g ref="char:EOLhyphen"/>ſons in Authority, are to procure their Coun<g ref="char:EOLhyphen"/>tries well-fare by their well-ordered, and diſ<g ref="char:EOLhyphen"/>creet Commands, and Government, <hi>Souldiers by their valour, and Diſcipline, the rich by their wealth, learned and experienced men by their know<g ref="char:EOLhyphen"/>ledge and obſervation, Inferiours by prompt obedi<g ref="char:EOLhyphen"/>ence, all by good-will.</hi> To expoſe theſe aſſertions to approbation, I conceive no Author need to be ci<g ref="char:EOLhyphen"/>ted, the <hi>Dictamen</hi> of reaſon averring them to be ſo, wherefore I cannot doubt, that much honou<g ref="char:EOLhyphen"/>red Superiours (to whoſe grave cenſure J ſub<g ref="char:EOLhyphen"/>mit theſe my <hi>Propoſitions)</hi> will any way be offen<g ref="char:EOLhyphen"/>ded, that I have Dedicated to them theſe ſubſe<g ref="char:EOLhyphen"/>quent Conſiderations, proceeding if not from ſufficient reaſon, yet from intire good-will; ſo that if J have inſerted any one clauſe, that may give the leaſt diſtaſte; I humbly intreat, that <q>
+                     <hi>—quis enim ſuccenſet amanti?</hi> 
+                     <bibl>
+                        <hi>Ovid Epiſt. Her Helen.</hi> &amp;c.</bibl>
+                  </q> may excuſe it.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="3" facs="tcp:157073:4"/>
+               <head>2</head>
+               <p>THE moſt Politicke- and martiall men have generally eſteemed Forts, and ſtrong places, the ſafety not onely of meane Provinces, but even of the greateſt, and moſt puiſſant Kingdomes and Empires, the de<g ref="char:EOLhyphen"/>fects, and neglects whereof have many (too many) times beene the occaſions or rather cauſes of moſt irreparable Diſaſters, in greate and commanding Monarchies, and Eſtates. The Romane Empire invaded by the <hi>Perſians, Sa<g ref="char:EOLhyphen"/>racens, Goths</hi> and <hi>Vandalls,</hi> the <hi>Greeke</hi> Empire wholly ſubverted by the <hi>Turks; Spaine</hi> over<g ref="char:EOLhyphen"/>runne by the <hi>Moores</hi> (with other Countries) were heretofore moſt lamentable Preſidents of thraldome occaſioned chiefly (according to humane principles of State) by noe having their frontiers &amp; ploces of importance ſtrongly for<g ref="char:EOLhyphen"/>tified: But to inſtance provinces, and s part more neere, and notified unto us in theſe mo<g ref="char:EOLhyphen"/>derne times, who knoweth not but that the ſmall remnant of <hi>Hungaria,</hi> the States of <hi>Venice</hi> and <hi>Holland,</hi> the Iſlands of <hi>Sicily, Sardinia, Can<g ref="char:EOLhyphen"/>dy</hi> and <hi>Malta,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> even all <hi>Italy,</hi> are all principal<g ref="char:EOLhyphen"/>ly conſerved (ſpeaking of the inſtrumentall cauſe) from forreigne ſubjection and tyranny by fort and ſtrong places.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="3" facs="tcp:157073:5"/>
+               <p>MOreover the moſt flouriſhing King<g ref="char:EOLhyphen"/>domes and Monarchies, both Chri<g ref="char:EOLhyphen"/>ſtian and Mahometan, diſdaine not, but rather wholy endeavour to have the bounds and borders of their dominions, if not extraor<g ref="char:EOLhyphen"/>dinarily, yet ſufficiently ſtrengthned with forti<g ref="char:EOLhyphen"/>fications and Garriſons both in peace and war: ſo do the <hi>Roman</hi> or <hi>German</hi> Emperour, and <hi>Great Turk</hi> (notwithſtanding of late the ordinary peace or Truce betweene them) keepe the one the forts (or rather Townes) of <hi>Kamorra, Rab</hi> &amp;c. the other of <hi>Strigonium, Buda</hi> &amp;c. exactly main<g ref="char:EOLhyphen"/>tained with all neceſſaries; thereby wieſly pre<g ref="char:EOLhyphen"/>venting the ſudden events of war, if their ene<g ref="char:EOLhyphen"/>mies (albeit they make ſhew of peace) ſhould upon any diſtaſt, or occaſion of advantage given them, attempt an invaſion: For ſuch places of ſtrength, although they are not always ſwords (which ſometimes they are) to cut off an enemy, yet are they ever Bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>klers to defend a Countrie, untill ſuch time, as either ſufficient power can be aiſed to expell them; or that reaſonable con<g ref="char:EOLhyphen"/>ditions be obtained, if ſo be that the enemy bee not inviucible in reſpect of number.</p>
+               <p n="4">
+                  <pb n="5" facs="tcp:157073:5"/> 4. Nor can J, but commend in this point of for<g ref="char:EOLhyphen"/>tifying (to omit the <hi>Hollanders</hi> of all our neighbor nations moſt carefull) the <hi>French and Spaniſh,</hi> but e<g ref="char:EOLhyphen"/>ſpecially the <hi>French:</hi> who, although they need not greatly feare, or at leaſtwiſe tremble at any forraine Invaſion from their neighbors by Sea, which could impoſe the yoke of ſujection upon them; by reaſon of their great, and united Land-forces, they are able to make, to expell, and vanquiſh any ſuch powers, as could by <hi>ſhipping, Gallies,</hi> and the like, enter into their continent, yet have they on the <hi>Levant,</hi> &amp; great <hi>Ocean Seas, ſtrong townes, and Caſtles well furniſhed with good Garriſons,</hi> and neceſſary proviſion for de<g ref="char:EOLhyphen"/>fence, againſt a puiſſant Invader: as to begin on the <hi>Levant in France, Tolou, Marſeilles, Narbon in Spain, Barcelona, Denia, Alicante, Cartagena de Levanto, Malaga, Gibraltar, Cadiz, the Groine, St. Sebaſtians, Fonte-Rabia;</hi> and againe in <hi>France, Baion, Blois ſur Garroun, Broige, Rochel quondam, Breſt, St. Malos, Mount St. Michael, Grandvill, Cherbourg, Havre-de Grace, Diepe, Cales,</hi> &amp;c, ſo that the conſideration of theſe aforenamed places of importance, ſtrongly e<g ref="char:EOLhyphen"/>rected, and warily kept, and repaired by thoſe, and o<g ref="char:EOLhyphen"/>ther our neighbouring Nations; have divers times moved me to ponder, whether their care in maintai<g ref="char:EOLhyphen"/>ning ſuch Fortifications, or our confidence in omit<g ref="char:EOLhyphen"/>ting them, and, as it were, quitting the charge there<g ref="char:EOLhyphen"/>of, may be more commendable?</p>
+               <p n="5">5. Firſt, therefore (not to flatter our ſelves) J con<g ref="char:EOLhyphen"/>ceive, that it muſt be granted, that none of our beſt Sea-townes, or Caſtles, of <hi>Barwick, Hull, Yarmouth,</hi>
+                  <pb n="6" facs="tcp:157073:6"/> 
+                  <hi>Harwich, Sandon, Dover, Portſmouth, Plimouth,</hi> &amp;c. are (as they now are contrived, and ſtrengthened) to be compared with moſt of thoſe in <hi>France,</hi> and <hi>Spaine,</hi> aforeſaid: For although the ſituation of ſome of ours, may be as convenient as ſome of theirs; yet our manner of fortifying is not to be equalized with theirs; confidering their ſtrong walls and Parapets, <hi>Bulwarkes, Halfe-moones, Horne-workes, Ports, Moots, Ditches, Rampiers,</hi> and in ſome places <hi>Redouts,</hi> and <hi>Sconces;</hi> as in the <hi>Low-Countries:</hi> and what J con<g ref="char:EOLhyphen"/>ceive to be more worthy of conſideration, and more to be looked into; many places of importance in this Kingdome, are in a manner without any Fortifi<g ref="char:EOLhyphen"/>cation at all; or elſe ſo weakly maintained, or ill compoſed, that in time of warre <hi>(eſpecially with the French our overſeeing neighbors)</hi> they lye greatly (ac<g ref="char:EOLhyphen"/>cording to the Nature, and martiall Diſcipline of theſe dayes) expoſed to danger,</p>
+               <p n="6">6. For to inſtance, <hi>Milford Haven</hi> is a place of that ſituation, and convenience; that a great Navie, even the greateſt (almoſt for burden, how ſoever for number) may arrive there; and being arrived, land what numbers they ſhall be able without any their eminent, or great danger, there being no place of ſtrength to moleſt or hinder them, nor a people of any conſiderable power (although they want no courage) to reſiſt them: and may not an Army out of <hi>Spaine, or France</hi> (now more to be thought of) not onely there land, but alſo there fortifie themſelves, waſting, and deſtroying the <hi>Countries</hi> of <hi>Pembroke-ſhire, Carmarden-ſhire, Glamorgan-ſhire,</hi> and <hi>Cardi<g ref="char:EOLhyphen"/>gar</hi>
+                  <pb n="7" facs="tcp:157073:6"/> 
+                  <hi>ſhire,</hi> before ſufficient forces could be raiſed to reſiſt them, and enforce them to deſiſt? May not great powers likewiſe, not onely ſpoyle us, as before ſaid; but alſo invade the heart of the Kingdome from thence, <hi>and that with much convenience to themſelves, and inconvenience to us,</hi> for having ſo large, and ſafe and Haven <hi>(as is Milford-haven)</hi> for their fleet, if it ſhould be by them well fortifyed, and kept <hi>(as that no doubt but they would doe)</hi> might they not march a<g ref="char:EOLhyphen"/>long the Sea Coaſt through the plentifull Coun<g ref="char:EOLhyphen"/>tries of <hi>Pembroke ſhire, Carmarden-ſhire, and Clamor<g ref="char:EOLhyphen"/>gan-ſhire</hi> aforeſaid, and from thence into <hi>Monmouth ſhire, Hereford ſhire,</hi> and ſo farther according to their Potencie? Which how dangerous it might prove (God of his goodneſſe defend it) not onely to the ruine of thoſe Countries, but alſo diſanimating of our people living in, or about them; to the incen<g ref="char:EOLhyphen"/>ſing of <hi>Domeſticall diſcontented factions</hi> (if any ſuch ſhould be) with other like Caſualties. I leave it to the <hi>Conſideration</hi> of my Superiours.</p>
+               <p n="7">7 Moreover, not <hi>Milford Haven</hi> onely (lying upon large, and commodious Seas, and being likewiſe ſo ſituated, <hi>as that it may annoy (if once in the hands of a ſtranger) Ireland,</hi> as well as <hi>England,</hi> and greatly diſ<g ref="char:EOLhyphen"/>unite them, or at leaſtwiſe moleſt their <hi>union;</hi> not onely that, I ſay, but alſo to omit the mouth of the River of <hi>Carmarden, Swanzey, Cardiffe, Newport, and Chepſtow,</hi> or rather the mouth of the River of <hi>Wuy in Monmouth-ſhire,</hi> the mouth of <hi>Severn, Kingrode, Mynhead,</hi> and ſome other places in the <hi>Severn-Sea;</hi>
+                  <pb n="8" facs="tcp:157073:7"/> the Ile of <hi>Sheppey in Kent,</hi> the mouth of <hi>Thames,</hi> and <hi>Tinmouth Caſtle</hi> have need (in reſpect of future Ca<g ref="char:EOLhyphen"/>ſualties) to be better looked unto, and ſtrengthened: as likewiſe the towns of <hi>Poole, Waymouth, and Port<g ref="char:EOLhyphen"/>land Iland in Dorſet ſhire,</hi> are (in my ſmall inſight) to be farre better fortifyed then they are. For firſt, <hi>Dorſet ſhire</hi> is the neareſt Country unto <hi>France (Kent onely excepted)</hi> of any part of <hi>England;</hi> next, it is by <hi>nature</hi> leaſt ſtrong, as lying wholly upon the Sea, having no difficult Cliffes, or Rockes to incum<g ref="char:EOLhyphen"/>ber an enemy in <hi>landing.</hi> Thirdly, it lyeth in the midſt of the <hi>Southerne Coaſt,</hi> having Eaſtward <hi>Ham<g ref="char:EOLhyphen"/>ſhire, Suſſex, and Kent;</hi> Weſtward <hi>Devonſhire, and Cornwall:</hi> and Northward the body of the Kingdome: ſo that if a potent enemy ſhould ſtand there, hee might direct his forces Eaſtward, Weſtward, or Northward; according to his moſt advantage: as for the Caſtles of <hi>Waymouth, and Portland Iland,</hi> they are not for ſtrength conſiderable; and yet who know<g ref="char:EOLhyphen"/>eth not, but that that Iland, and the land of the Coun<g ref="char:EOLhyphen"/>ty, make a large Bay ſufficient to containe a great Navie, where likewiſe they may ride at Anchor in reaſonable ſafety, unleſſe the South, or Southeaſt winds be extraordinarily ſtirring; ſo that, if that <hi>I<g ref="char:EOLhyphen"/>land</hi> (let it ſeeme of what importance it pleaſe) ſhould be but taken, and well fortifyed by the <hi>French</hi> (beſides the charge and hazzard of recovering it, or blocking it up) <hi>they might ſhrewdly annoy us, having Normandy ſo neare.</hi>
+               </p>
+               <p n="8">8 And for that I have intimated the <hi>French,</hi> it may be thought either hate, or averſion (without
+<pb n="9" facs="tcp:157073:7"/> fundamentall reaſon) if I ſhew not ſome prudent, or at leaſtwiſe, probable cauſe of ſuſpition in that Na<g ref="char:EOLhyphen"/>tion againſt us; wherefore, I have here briefly ſet down the particulars, which I conceive of the <hi>French</hi> proceedings, and greatneſſe. Firſt, therefore it is well knowne that <hi>France</hi> is the greateſt, moſt plentifull, and populous Kingdome in <hi>Europe,</hi> being at the leaſt foure times bigger then <hi>England,</hi> and having 5 times as many people. The King thereof is now the moſt abſolute <hi>Monarch Chriſtian</hi> (except the great <hi>Duke of Moſcovie,</hi> or <hi>Emperour of the Abeſſines,</hi> whom we ſcarcely know) ſo that the King of <hi>France,</hi> his <hi>Sic volumus, ſic jubemus,</hi> is in a manner a Law amongſt the greateſt part of his Subjects; and thereby hee hath of late ſo augmented his Revenues, that thoſe of <hi>France</hi> alone, exceed the Incoms of all the large Do<g ref="char:EOLhyphen"/>nions of <hi>Spaine, and Portugall;</hi> or at the leaſt wiſe, they equalize them: <hi>beſides, France hath extended it ſelfe of late, through Lorraine, and in Artois, and Al<g ref="char:EOLhyphen"/>ſatia, Lording as it were over Savoy, and Piemont: the Marquiſate of Montferrat, and Dutchy of Mantua in Italy,</hi> are likewiſe under the protection of <hi>France:</hi> but that which of all things ought moſt to awake us, is the <hi>French Conqueſt in Artois,</hi> aforeſaid, ſo neare unto us, and neerely concerning us, as I take it: the Proverbe is,
+<q>Tunc tua res agitur, paries cum proximus ardet.</q>
+                  <pb n="10" facs="tcp:157073:8"/> And is not our neighbors houſe on fire in the Pro<g ref="char:EOLhyphen"/>vinces of <hi>Flanders,</hi> are not <hi>Arras, Aires, and Heſden</hi> by the <hi>French</hi> taken in? for my part were St. <hi>Omers, Graveling, and Dunkerk</hi> by them likewiſe ſubdued, I ſhould account that houſe burntdown to the ground; and were the <hi>French</hi> once but Maſters of <hi>Flanders,</hi> I would know whether (according to reaſon of State) they might not overmaſter us, if they ſhould make warre upon us, as 'tis likely they would. If it ſhould be ſaid, and concluded, that in ſuch Caſe we would, and ſhould enter into a league both Defenſive, and Offenſive with the <hi>Hollanders;</hi> and by that meanes be enabled to oppoſe the <hi>French.</hi> To this I anſwer, <hi>that it is a queſtion. Firſt, whether, or no, the Hollanders would in ſuch caſe breake their league defenſive, and offenſive which they hold with the French, to joyn compact with us:</hi> for it may be very likely, that they would not draw upon them, ſo neere, and powerfull an ene<g ref="char:EOLhyphen"/>my; beſides, they have of late beene ayded by the <hi>F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ench,</hi> ſince they have in a manner been quit by us: Moreover, <hi>France</hi> can live of it ſelfe without <hi>Holland,</hi> but <hi>Holland</hi> can ſcarce live without <hi>France;</hi> as ha<g ref="char:EOLhyphen"/>ving great ſtore of Corne, wine, and ſalt, and Canvas from thence: <hi>beſides,</hi> 'tis very likely, that the <hi>Hollan<g ref="char:EOLhyphen"/>ders</hi> would be content to ſubſiſt, and to inrich them<g ref="char:EOLhyphen"/>ſelves by trade (as doe the Venetians) and ſo to live at peace with their neighbors: and to ſay that they would joyne with us meerly for Religions ſake; it may ſeeme ſo to a weake <hi>Opiniatiſt,</hi> but never to an underſtanding <hi>Statiſt;</hi> who well knoweth that Re<g ref="char:EOLhyphen"/>ligion is many times the pretended, but ſeldome the
+<pb n="12" facs="tcp:157073:8"/> reall Cauſe of warre, or leagues: and as for the <hi>Hol<g ref="char:EOLhyphen"/>landers,</hi> J am of opinion, that they will never enter into warre, or league, meerly for Religion.</p>
+               <p n="9">9 But grant that wee ſhould enter into ſuch a league with the Hollanders; J conceive, notwith<g ref="char:EOLhyphen"/>ſtanding that <hi>France</hi> (if it had but <hi>Flanders</hi> added to it) would be ſuperiour to them and us by land, &amp; no whit inferiour by Sea; for to ſay, that the French in reſpect of their numbers both of horſe and foote, would not in ſuch caſe as aforeſaid, be maſters of the field, were meerly to flatter our ſelves, and they that are maſters of the <hi>field,</hi> will in time be maſters of as many townes and forts as they can beſiege, and en<g ref="char:EOLhyphen"/>compaſſe or block up by land, if ſuch townes cannot otherwiſe be ſuccoured by Sea; and it may be even of them alſo: ſo that the Hollanders having their townes and Forts taken from them, would be infor<g ref="char:EOLhyphen"/>ſed to breake their league with us, and make their peace with the French: and if it ſhould farther be ſaid, that in ſuch Caſe, we would not onely make a league with the Hollanders; but alſo with other Princes, and States, who ſhould aſſiſt us. J anſwer, that this bare ſaying, or ſuppoſition, muſt not goe for a maxime. For firſt, it muſt be conſidered that, all Nations are moſt inclinable to them that can ſtand them in moſt ſtead; now great Brittaine, for that it is an Iland, can ſtand no Nation in any great ſtead, for the invaſion of <hi>France</hi> (at leaſtwiſe by land) and that chiefly, becauſe our ſhipping (if we ſhould be maſters of the Seas) could not tranſport over any great powers, both of horſe and foot (eſpecially of
+<pb n="12" facs="tcp:157073:9"/> horſe) to make a conſiderable Conqueſt in ſo large a <hi>Continent,</hi> as is France.</p>
+               <p n="10">10 Nor is it <hi>conſequence</hi> to ſay, that formerly we have made Conqueſts in <hi>France,</hi> with a ſmall power. For 1. it muſt be conſidered, that the Nature and Diſcipline of warre is greatly altered. Secondly, we then had a third part of <hi>France,</hi> or rather more under our obedience, having not now one foote within the maine Land. Thirdly, <hi>France</hi> had then many <hi>Homagers and Peeres,</hi> that durſt, were able, and did oppoſe the King; ſo that, by that meanes it was diſunited; whereas now, there is none of any <hi>Potency</hi> that dare controle the <hi>King,</hi> or his commands; or if there be, yet can they not but quickly be reduced into ſubje<g ref="char:EOLhyphen"/>ction, or elſe expelled as Fugitives, <hi>France</hi> being now wholly under obedience. Fourthly, it muſt likewiſe be conſidered, that the <hi>Forts, Ports, and Citadels</hi> of <hi>France</hi> were not then ſo ſtrong, as now they are, be<g ref="char:EOLhyphen"/>ing now all for the Major part, re-edified according to moderne Fortification. Fiftly, the Revenues of the Crown of <hi>France,</hi> are far greater then ever they were, as aforeſaid, the Revenues of <hi>Normandy</hi> alone, equa<g ref="char:EOLhyphen"/>lizing now the revenues antient, of the whole crown, whereby the King of <hi>France</hi> is inabled to leavy, and maintaine greater Armies: to all this may be added our long eaſe (a great Diſeaſe I feare) by which wee are of late become unexpert, to attempt any notable deſignes againſt ſo potent a Nation, as is <hi>France.</hi>
+               </p>
+               <p n="11">11 So that for the reaſons alleadged, we can not ſtand other Nations in any great ſtead, for the Invaſi<g ref="char:EOLhyphen"/>on of <hi>France;</hi> and therefore 'tis to be thought, that
+<pb n="13" facs="tcp:157073:9"/> the German Princes, as many as can ſtand us in any ſtead, would not decline from France, which doth &amp; may availe them (eſpecially if the Houſe of <hi>Auſtria</hi> fall to decay) to incline to us, who can availe them but little; and the Portugals (if they continue in a Kingdome independent from <hi>Spaine)</hi> will, in any oc<g ref="char:EOLhyphen"/>caſion of great importance, either wholly devote themſelves to France (for that it may aſſiſt them a<g ref="char:EOLhyphen"/>gainſt the Caſtilians, as likewiſe for Corne, Canvas, &amp;c.) or elſe the <hi>Portugals</hi> will remaine Newtrals: as for Spaine (if they ſhould loſe Flanders) they would find enough to doe, to keepe themſelves in ſafety on the other ſide of the Pyrenans; and beſides, they will conceive, it may be, that for as much as we ne<g ref="char:EOLhyphen"/>ver throughly aſſiſted them in their Countries of Flanders, &amp;c. that therfore they were no way obliged afterwards to ingage themſelves for us; and beſides (Flanders once loſt) they were not able to doe us a<g ref="char:EOLhyphen"/>ny great good; no more were <hi>Italy, Denmarke, Po<g ref="char:EOLhyphen"/>land, and Swedeland</hi> in reſpect of their remoteneſſe; and it is moſt probable alſo, that thoſe Nations would remaine as Newters betweene the French and us.</p>
+               <p>So that if France ſhould gaine Flanders, and then fall out with us, 'tis to be feared, that the warre once turned upon us, would come wholly to our ſhares to beare, and make an end of; and in ſuch caſe, I hope all will agree that it were very neceſſary, that all our Ports, and places of importance, were ſtrongly fortified, and ſecurely guarded: and ſurely it can not be amiſſe to foreſee, and prevent inconveniences by
+<pb n="14" facs="tcp:157073:10"/> times, and indeed I conceive it now even high time to be looked unto; for albeit that the <hi>French</hi> have not as yet wholy ſubdued <hi>Flanders,</hi> yet are they in a reaſonable forwardneſſe, &amp; poſſibility of gaining it but letting that paſſe to take the event of warre; ad<g ref="char:EOLhyphen"/>mit now the French ſhould make a peace or Truce with the Spaniſh, who (by reaſon of their many, and great troubles) would 'tis very propable (before all were loſt in Flanders) be glad to embrace Peace or Truce; and foraſmuch as the <hi>French</hi> are on the win<g ref="char:EOLhyphen"/>ning hand, 'tis very likely therefore, that they would capitulate for their owne advantage: let it therefore be ſuppoſed, that it ſhould be concluded betweene the <hi>French and Spaniſh,</hi> in a preſent Truce; that nei<g ref="char:EOLhyphen"/>ther ſhould ayd, or aſſiſt the enemies of one another during the time of ſuch peace or Truce; which con<g ref="char:EOLhyphen"/>dition I beleeve the <hi>Spanyards</hi> would not refuſe if it were urged; becauſe they would not have the <hi>Portu<g ref="char:EOLhyphen"/>gals, Catalonians,</hi> and ſuch like aided againſt them<g ref="char:EOLhyphen"/>ſelves: if therefore ſuch Truce (as aforeſaid) were made between thoſe two <hi>Nations,</hi> ſuppoſe rhe <hi>French</hi> ſhould even now turne their furies &amp; ambition up<g ref="char:EOLhyphen"/>on us, were it not then moſt requiſite, that all our Ports, and places of Importance were ſecurely guar<g ref="char:EOLhyphen"/>ded, and ſtrongly fortifyed?</p>
+               <p n="13">13 If it be ſaid, that we would be Maſters of the Sea, and by that meanes we ſhould be able to divert any of the <hi>French forces,</hi> and not ſuffer them to land. J anſwer, that firſt it is a queſtion whether we could maſter the <hi>French</hi> at ſea, as they may be provided, and I beleeve, if the Hollanders (being now in a league
+<pb n="15" facs="tcp:157073:10"/> Defenſive, and offenſive with them) would joyn with them, wee ſhould bee deceived, and it would be well for us to be equall with them; but admit we ſhould be equall, or ſomewhat Superiour to the <hi>French</hi> at ſea; what great ſecurity could be built upon that: they may draw (if they finde themſelves too weak) our ſhips of warre into one place, by daring us, and making ſhew of a Conflict with their ſhips, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd yet with leſſer veſſels land an Army, or forces in ano<g ref="char:EOLhyphen"/>ther place, and there ſurprize ſome convenient Port, Towne, or Caſtle, if not ſufficiently fortifyed, and ſtrengthned to make reſiſtance; and how many times have weak places bin ſuddainly ſubdued, to the great prejudice of the owners, experience hath ſhewed to the ruine of many; on the other ſide ſtrong places (if not betrayed or moſt negligently kept) have many times foyled an enemy, and ſecured a whole Pro<g ref="char:EOLhyphen"/>vince; for no enemy (except of an inveſtible power) will returne farre into anothers Country, leaving a ſtrong place behind him, to which his enemies may aſſemble, and joyne themſelves againſt him to make head, and if not fight with him afterwards, yet cut off his <hi>ſuccours,</hi> and Convoyes, by the helpe of ſuch a place, thereby, by little and little weakning, and diſ<g ref="char:EOLhyphen"/>inabling him. If it bee farther ſaid, that we need not feare an <hi>Invaſion</hi> from <hi>France,</hi> or any other <hi>Nation;</hi> and conſequently need not erect any ſtrong Forts, for that a puiſſant Army of above 20000. 30000. or 40000. at the moſt, cannot be by ſhipping tranſpor<g ref="char:EOLhyphen"/>ted, or landed in this <hi>Iland,</hi> and as for ſuch powers our trained, or Military bands (with other forces ſoon
+<pb n="16" facs="tcp:157073:11"/> raiſed) would be able to overthrow them. <hi>I anſwer to this,</hi> that 'tis not good to put ſuch a thing to <hi>haz<g ref="char:EOLhyphen"/>zard;</hi> for (to omit the danger of Combines, <hi>&amp;c.)</hi> Although I grant our trained, or Military bands to be a very good meanes (I even the beſt we now have) to preſerve us, and to ſuppreſſe an enemy: yet foraſ<g ref="char:EOLhyphen"/>much as they are uſed to fight in jeſt, not in earneſt, they might be foyled by leſſer powers of old ſouldi<g ref="char:EOLhyphen"/>ers: ſuch as now are the French, throughly exerci<g ref="char:EOLhyphen"/>ſed in the warres of Germany, Italy, Spaine, and the Low-Countries: ſo that I conceive and conclude howſoever, that our Ports, and places of importance are (notwithſtanding of our Fleet, &amp; trained Bands) to be ſtrongly ſecured.</p>
+               <p n="14">14 It may be ſome will ſay, that there is no great feare that the French will at any time moleſt us, but let ſuch give me leave to tell them, that I could wiſh it ſo, as well as they, and that all the world would, if it might be, live and continue in peace, and unity; nor doe J for my part accuſe, or ſay, that the <hi>French</hi> will, or have an intent to make warre upon us; yet I verily beleeve, J know, that</p>
+               <list>
+                  <item>1. <hi>The French, in generall, envy our Kings Title to France.</hi>
+                  </item>
+                  <item>2. <hi>That they beare unto us, old, and late Grudges for our Ile of Rey's <g ref="char:V">Ʋ</g>oyage.</hi>
+                  </item>
+                  <item>3. <hi>That they deſire to be the chiefe (if they can, the ſole) Regents in Chriſtendome; and therefore ſeeke wholly to diſ<g ref="char:EOLhyphen"/>inveſt the houſe of Auſtria, that none ſhould be able to oppoſe them.</hi>
+                  </item>
+                  <item>4. <hi>That they have ſet at variance, the Princes of Germa<g ref="char:EOLhyphen"/>ny, and fomented the warres there, to the ruine, and in a manner Deſolation thereof.</hi>
+                  </item>
+                  <pb n="17" facs="tcp:157073:11"/>
+                  <item> 5. <hi>That they have ſeized upon the Duke of Lorraines Country, and other places not belonging to them.</hi>
+                  </item>
+                  <item>6. <hi>That they have reduced Savoy into the Nature of <g ref="char:V">Ʋ</g>aſ<g ref="char:EOLhyphen"/>ſallage, and thereby opened a way into Italy.</hi>
+                  </item>
+                  <item>7. <hi>That they have animated the Rebellions of Catalonia, and ſuch like.</hi>
+                  </item>
+                  <item>8. <hi>That their Cardinall (who is upon the matter, their</hi> Dominus fac totum) <hi>is a moſt politick Prelate, &amp;c.</hi>
+                  </item>
+               </list>
+               <p>Now thereefor, if in zeale to my Country, J doe but ſuſpect the worſt (not inſiſting upon it vehemently) I con<g ref="char:EOLhyphen"/>ceive, I may be by all indifferent men excuſed. Notwith<g ref="char:EOLhyphen"/>ſtanding, I requeſt all (eſpecially my Superiours) to pardon, if I have inſerted any thing amiſſe; hoping, that what I have written concerning Fortifications, or the Fortifying Ports, and other places of importance, will worthily be ta<g ref="char:EOLhyphen"/>ken into conſideration. For as 'tis truely ſaid, that the Earth is</p>
+               <q>Ponderibus librata ſuis;</q>
+               <p>So may it be as truely ſaid, that a Kingdome or Com<g ref="char:EOLhyphen"/>mon-wealth is (or ought to be) by Juſtice, and Warlike power equally balanced.</p>
+            </div>
+            <div type="part">
+               <p n="1">1 IF it be objected, that the Fortifying, and maintaining of places of Importance will bee ſomewhat chargeable to the Kingdome. I anſwer, beeter ſome charge, then no ſecurity, or ſafety.</p>
+               <p n="2">2. If it be objected, that Forts, and ſtrong places, have di<g ref="char:EOLhyphen"/>vers times bin, and may be yet the Nests of Rebels: I anſwer, that ſuch Care, Policy, and Vigilancy, may be uſed in placing, and displacing Governours, and Officers, as that we may bee as well ſecured from ſuch dangers, as are the <hi>Spaniſh, Dutch, Ve<g ref="char:EOLhyphen"/>netian,</hi> and of late, the <hi>French,</hi> with other Nations.</p>
+               <p n="3">
+                  <pb n="18" facs="tcp:157073:12"/> 3. If it be farther objected, that ſtrong places (if once ſur<g ref="char:EOLhyphen"/>prized by an enemy) are with greater difficulty regained, where<g ref="char:EOLhyphen"/>as weaker places are ſoone got againe. I anſwer, that ſtronger places likewiſe, are better able to keepe out an enemy: ſo that they cannot but by more difficulty be Conquered, and weaker (if they once come into the hands of an enemy) will be by them made ſtrong, if they intend farther to invade; ſo that the recovering of a weake place ſoone loſt, may coſt as deare, as of a ſtronger.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:157073:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
